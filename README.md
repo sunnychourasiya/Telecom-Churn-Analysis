@@ -73,6 +73,7 @@ Telecom-Churn-Analysis/
 | Data Preparation & Cleaning | [Go to Section](#data-preparation--cleaning) |
 | Feature Engineering | [Go to Section](#feature-engineering) |
 | Exploratory Data Analysis (EDA) | [Go to Section](#exploratory-data-analysis-eda) |
+| Key Visualizations  | [Go to Section](#key-visualizations) |
 | Key KPI Highlights | [Go to Section](#key-kpi-highlights) |
 | Key Insights | [Go to Section](#key-insights) |
 | Strategic Recommendations | [Go to Section](#strategic-recommendations) |
@@ -223,42 +224,41 @@ The EDA focused on understanding customer behavior, churn patterns, and key life
 
 ---
 
-### 📊 Key Visualizations
+### Key Visualizations
 
 <table>
   <tr>
     <td align="center">
-      <img src="images/customer_status_distribution.png" width="350"><br>
+      <img src="Images/Customer_Status_Distribution.png" width="350"><br>
       <sub><b>Customer Status Distribution</b></sub>
     </td>
     <td align="center">
-      <img src="images/top_cities_churn.png" width="350"><br>
+      <img src="Images/Top_Cities_Churn.png" width="350"><br>
       <sub><b>Top Cities by Churned Customers</b></sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
-      <img src="images/churn_by_tenure.png" width="350"><br>
+      <img src="Images/Churn_By_Tenure.png" width="350"><br>
       <sub><b>Churn by Tenure Category</b></sub>
     </td>
-    <td align="center">
-      <img src="images/churn_reasons.png" width="350"><br>
-      <sub><b>Churn Reasons</b></sub>
-    </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="images/churn_category_distribution.png" width="350"><br>
+      <img src="Images/Churn_Reasons.png" width="350"><br>
+      <sub><b>Churn Reasons</b></sub>
+    </td>
+        <td align="center">
+      <img src="Images/Churn_Category_Distribution.png" width="350"><br>
       <sub><b>Churn Category Distribution</b></sub>
     </td>
     <td align="center">
-      <img src="images/financial_metrics_by_status.png" width="350"><br>
+      <img src="Images/Financial_Metrics_By_Status.png" width="350"><br>
       <sub><b>Financial Metrics by Customer Status</b></sub>
     </td>
   </tr>
 </table>
+
+---
 
 ## Key KPI Highlights
 
