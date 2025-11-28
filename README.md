@@ -92,7 +92,7 @@ Telecom operators operate in a highly competitive, price-sensitive environment w
 - *Which customer segments are most at risk*  
 - *What behaviors and service attributes drive churn*  
 - *Where customer experience or product gaps exist*  
-- *Which strategic levers can effectively reduce attrition*
+- *Which retention levers can effectively reduce attrition*
 
 The analysis translates raw customer data into clear, actionable recommendations aligned with marketing, customer experience (CX), product, and strategy functions.
 
@@ -117,7 +117,7 @@ Lack of segmentation and visibility into churn drivers limits the effectiveness 
 
 - Identify primary demographic, behavioral & service churn drivers  
 - Compare churn vs retention across contract type, charges, add-ons, internet type, tenure  
-- Engineer analytical features to enhance churn interpretation  
+- Engineer analytical features to enhance churn analysis and interpretation  
 - Generate actionable insights to assist retention teams  
 - Build a foundation for predictive churn modeling  
 
@@ -127,17 +127,8 @@ Lack of segmentation and visibility into churn drivers limits the effectiveness 
 
 ```
 
-Raw Data  
-   ↓  
-Data Cleaning  
-   ↓  
-Feature Engineering  
-   ↓  
-Exploratory Data Analysis  
-   ↓  
-Insights & Churn Drivers  
-   ↓  
-Strategic Recommendations
+Raw Data -→ Data Cleaning -→ Feature Engineering -→ EDA -→ Insights -→ Recommendations
+
 
 ```
 
@@ -192,10 +183,10 @@ The cleaned dataset forms the foundation for reliable exploratory analysis.
 
 To improve analytical depth and interpretability:
 
-- Tenure Groups(0–12, 12–24, 24–48, etc.) were created to segment customer lifecycle stages
+- Tenure Groups (0–12, 12–24, 24–48, etc.) were created to segment customer lifecycle stages
 - Categorical attributes were standardized and consolidated for comparison
 - Engineered fields were added to capture service bundle usage and customer behavior patterns
-- Service-level indicators were transformed to enable clearer churn segmentation
+- Service-level indicators were transformed to enable clearer customer segmentation for churn analysis
 
 These enhancements significantly improved the detection of churn patterns across customer segments.
 
@@ -373,7 +364,7 @@ This analysis supports telecom leaders in:
 
 ## Conclusion
 
-This analysis provide telecom organizations with a clear understanding of the behavioral, financial, and service factors driving customer attrition. The insights and recommendations provided enable data-driven decision-making across marketing, customer experience, product, and strategy teams—ultimately improving retention, revenue, and customer lifetime value.
+This analysis provides telecom organizations with a clear understanding of the behavioral, financial, and service factors driving customer attrition. The insights and recommendations provided enable data-driven decision-making across marketing, customer experience, product, and strategy teams—ultimately improving retention, revenue, and customer lifetime value.
 
 ---
 
