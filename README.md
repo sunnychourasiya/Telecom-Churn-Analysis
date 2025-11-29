@@ -127,7 +127,7 @@ Lack of segmentation and visibility into churn drivers limits the effectiveness 
 
 ```
 
-Raw Data -→ Data Cleaning -→ Feature Engineering -→ EDA -→ Insights -→ Recommendations
+Raw Data -→ Data Cleaning -→ Feature Engineering -→ EDA -→ Visualizations -→ Insights -→ Recommendations
 
 
 ```
