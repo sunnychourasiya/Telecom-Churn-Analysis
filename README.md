@@ -56,16 +56,28 @@ Telecom-Churn-Analysis/
 │   └── churn_category_distribution.png
 │
 └── README.md
-
 ```
 
 ---
+
+## Executive Overview
+
+Customer churn remains one of the most immediate financial risks for telecom operators, especially in a saturated and price-competitive market. Even small shifts in churn rates can materially affect revenue, margins, and long-term customer value.  
+   
+This analysis evaluates customer-level data to quantify the scale of churn, diagnose its underlying drivers, and highlight the customer segments and service attributes most strongly linked to attrition. The insights are designed to support decision-makers across Marketing, Customer Experience (CX), Product, and Strategy by providing:
+
+- **Clear identification of high-risk customer groups**
+- **Behavioral, financial, and service factors contributing to churn**
+- **Gaps across onboarding, billing, service quality, and competitive positioning**
+- **Priority levers that can improve retention and reduce revenue loss**
+
+---
+
 
 ## 📘 Table of Contents
 
 | Section | Link |
 |--------|------|
-| Executive Overview | [Go to Section](#executive-overview) |
 | Problem Statement | [Go to Section](#problem-statement) |
 | Project Objectives | [Go to Section](#project-objectives) |
 | Project Workflow | [Go to Section](#project-workflow) |
@@ -82,19 +94,6 @@ Telecom-Churn-Analysis/
 | Technologies Used | [Go to Section](#technologies-used) |
 | Skills Demonstrated | [Go to Section](#skills-demonstrated) |
 | Conclusion | [Go to Section](#conclusion) |
-
----
-
-## Executive Overview
-
-Telecom operators compete in a saturated, price-sensitive market where even small increases in churn directly impact profitability, market share, and customer lifetime value. This project analyzes customer-level data to identify key churn patterns and translate them into actionable insights for Marketing, Customer Experience (CX), Product, and Strategy teams.
-
-It provides clarity on:
-
-- **High-risk customer segments**
-- **Behavioral and usage patterns linked to churn**
-- **Service, billing, and experience gaps**
-- **Key levers that improve retention and reduce churn**
 
 ---
 
