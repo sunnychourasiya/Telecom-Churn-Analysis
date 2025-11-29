@@ -87,28 +87,28 @@ Telecom-Churn-Analysis/
 
 ## Executive Overview
 
-Telecom operators operate in a highly competitive, price-sensitive environment where customer churn directly impacts profitability, market share, and lifetime value. This project provides a structured, data-driven churn analysis to uncover:
+Telecom operators compete in a saturated, price-sensitive market where even small increases in churn directly impact profitability, market share, and customer lifetime value. This project analyzes customer-level data to identify key churn patterns and translate them into actionable insights for Marketing, Customer Experience (CX), Product, and Strategy teams.
 
-- *Which customer segments are most at risk*  
-- *What behaviors and service attributes drive churn*  
-- *Where customer experience or product gaps exist*  
-- *Which retention levers can effectively reduce attrition*
+It provides clarity on:
 
-The analysis translates raw customer data into clear, actionable recommendations aligned with marketing, customer experience (CX), product, and strategy functions.
+- **High-risk customer segments**
+- **Behavioral and usage patterns linked to churn**
+- **Service, billing, and experience gaps**
+- **Key levers that improve retention and reduce churn**
 
 ---
 
 ## Problem Statement
 
-Despite high acquisition costs, telecom operators lose a significant share of customers due to:
+Telecom operators face rising customer churn but often lack clear visibility into what is driving it and where customer journeys are breaking. Growing competition, varied service bundles, and complex billing make it difficult to pinpoint:
 
-- Competitive switching (pricing, fiber speed, device upgrades)
-- Weak early-life onboarding and value communication
-- Service quality and customer experience issues
-- Billing complexity and unexpected charges
-- Low attachment to add-on services (low stickiness)
+- **Which customer groups are disengaging**
+- **What service or pricing issues lead to dissatisfaction**
+- **Why early-life customers churn at disproportionately high rates**
+- **Which retention interventions would be most effective**
 
-Lack of segmentation and visibility into churn drivers limits the effectiveness of retention programs.
+Without a data-backed understanding of these factors, retention efforts remain broad, reactive, and costly.  
+This project addresses that gap by systematically diagnosing churn drivers and quantifying risk across customer segments.
 
 ---
 
@@ -291,30 +291,25 @@ The EDA focused on understanding customer behavior, churn patterns, and key life
 
 ## Strategic Recommendations
 
-### 1. Strengthen Early Lifecycle Experience
-- Proactive onboarding journeys (first 30–60 days)
-- First-month bill clarity & proactive communication
-- Personalized usage tips & service activation support
+### 1. Strengthen Early-Lifecycle Experience
+- Redesign the first 30–60 day onboarding journey.  
+- Improve clarity of initial billing and plan benefits.  
 
-### 2. Improve Service Value & Stickiness
-- Bundle essential add-ons at discounted rates
-- Promote device protection, security & backup services
-- Create strong family/multi-line value propositions
+### 2. Increase Product Value & Customer Stickiness
+- Introduce bundled add-on packages to reinforce service attachment.  
+- Promote multi-line and family plans to improve account-level retention.  
 
-### 3. Reduce Competitor Switching
-- Loyalty programs targeting high-risk clusters
-- Upgrades for fiber customers (speed, pricing, devices)
-- Competitor-aware retention offers
+### 3. Mitigate Competitive Switching
+- Deploy targeted loyalty programs for high-risk segments.  
+- Enhance fiber-based offerings (pricing, device upgrades, speed tiers).  
 
-### 4. Enhance Customer Service Excellence
-- Track top complaint categories and eliminate root causes
-- Improve first-contact resolution rates
-- Prioritize high-value customers with premium support
+### 4. Enhance Customer Service Effectiveness
+- Strengthen issue resolution processes to ensure customer concerns are effectively resolved during the initial contact.  
+- Prioritize resolution of high-frequency customer complaints.  
 
-### 5. Increase Billing Transparency
-- Clear breakdown of monthly charges
-- Predictive bill notifications
-- Alerts for unusual usage or additional fees
+### 5. Improve Billing Transparency & Predictability
+- Simplify bill format and provide proactive billing estimates.  
+- Introduce alerts for unusual usage and potential overage charges. 
 
 ---
 
@@ -364,7 +359,7 @@ This analysis supports telecom leaders in:
 
 ## Conclusion
 
-This analysis provides telecom organizations with a clear understanding of the behavioral, financial, and service factors driving customer attrition. The insights and recommendations provided enable data-driven decision-making across marketing, customer experience, product, and strategy teams—ultimately improving retention, revenue, and customer lifetime value.
+This analysis provides telecom organizations with a clear, data-driven understanding of the behavioral, financial, and service factors influencing customer churn. By identifying high-risk segments and diagnosing key churn drivers, the study equips Marketing, CX, Product, and Strategy teams with actionable insights to strengthen retention programs, enhance customer experience, and improve overall lifetime value. The findings serve as a foundation for targeted interventions, future predictive modeling, and long-term churn reduction initiatives.
 
 ---
 
