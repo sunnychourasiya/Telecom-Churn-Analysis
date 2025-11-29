@@ -134,7 +134,7 @@ Raw Data -→ Data Cleaning -→ Feature Engineering -→ EDA -→ Visualization
 
 ## Dataset Description
 
-**Source:** Maven Telecom Customer Churn Challenge  
+**Source:** **Source:** [Maven Telecom Customer Churn Challenge](https://www.mavenanalytics.io/blog/maven-churn-challenge)  
 **File:** `Telecom_Customer_Churn.csv`  
 **Size:** 7,043 rows × 38 columns  
 
