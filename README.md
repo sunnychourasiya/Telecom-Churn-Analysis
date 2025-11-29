@@ -114,11 +114,12 @@ This project addresses that gap by systematically diagnosing churn drivers and q
 
 ## Project Objectives
 
-- Identify primary demographic, behavioral & service churn drivers  
-- Compare churn vs retention across contract type, charges, add-ons, internet type, tenure  
-- Engineer analytical features to enhance churn analysis and interpretation  
-- Generate actionable insights to assist retention teams  
-- Build a foundation for predictive churn modeling  
+- Identify the key demographic, behavioral, and service factors influencing churn  
+- Compare churn and retention patterns across contracts, billing levels, add-ons, and internet services  
+- Engineer analytical features that improve segmentation and churn interpretation  
+- Deliver actionable insights to support retention, pricing, and customer experience teams  
+- Establish a clean analytical base suitable for future predictive churn modeling  
+ 
 
 ---
 
